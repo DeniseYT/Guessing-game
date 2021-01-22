@@ -5,7 +5,7 @@ from random import randint
 tries = 0
 number = randint(1, 100)
 
-print('Howdy, what\'s your name?')
+print('Howdy, what\'s your name? > ')
 
 name = input('(type in your name) ')
 
